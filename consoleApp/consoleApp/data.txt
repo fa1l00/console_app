@@ -1,3 +1,0 @@
-101 Milk Food 2.50
-202 Mouse Electronics 15.00
-303 Apple Food 0.50
